@@ -10,7 +10,7 @@ class node:
 types of traversal:
 inorder  = left_node -> root -> right_node
 preorder = root -> left_node -> right_node
-postorder = left_node -> right_node -> roott
+postorder = left_node -> right_node -> root
 """
 
 def inorder(root):
